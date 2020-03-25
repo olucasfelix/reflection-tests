@@ -2,7 +2,7 @@ package io.github.olucasfelix.methodinvocation;
 
 import java.lang.reflect.InvocationTargetException;
 
-public class AttributeSetter {
+class AttributeSetter {
 
     public static void setObjectName(Object object, String name) {
 
